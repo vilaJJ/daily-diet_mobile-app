@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="dieta_diaria"
+        android:label="Dieta Diária"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
