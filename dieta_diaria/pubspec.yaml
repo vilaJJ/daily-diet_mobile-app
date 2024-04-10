@@ -25,5 +25,19 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/app/logo_green_w_bg.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/app/logo_green_w_bg.png
+    - assets/images/app/logo_green_w_text.png
+    - assets/images/app/logo_grey.png
+    - assets/images/app/logo_red.png
+    - assets/images/app/logo_white_w_text.png
+    - assets/images/app/logo_white.png
