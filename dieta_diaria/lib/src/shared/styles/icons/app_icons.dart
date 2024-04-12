@@ -7,17 +7,17 @@ class AppIcons {
   static const PhosphorIconsStyle _phosphorIconStyle = PhosphorIconsStyle.light;
 
   /// Ícone da seta apontada para a esquerda.
-  static IconData arrowLeft = PhosphorIcons.arrowLeft(_phosphorIconStyle);
+  static IconData setaEsquerda = PhosphorIcons.arrowLeft(_phosphorIconStyle);
   
   /// Ícone da seta apontada para o canto superior direito.
-  static IconData arrowUpRight = PhosphorIcons.arrowUpRight(_phosphorIconStyle);
+  static IconData setaSuperiorDireita = PhosphorIcons.arrowUpRight(_phosphorIconStyle);
 
   /// Ícone com o sinal de adição (mais).
-  static IconData plus = PhosphorIcons.plus(_phosphorIconStyle);
+  static IconData adicionar = PhosphorIcons.plus(_phosphorIconStyle);
 
   /// Ícone de um simples lápis com borracha.
-  static IconData pencilSimpleLine = PhosphorIcons.pencilSimpleLine(_phosphorIconStyle);
+  static IconData pincelSimples = PhosphorIcons.pencilSimpleLine(_phosphorIconStyle);
 
   /// Ícone de uma lixeira.
-  static IconData trash = PhosphorIcons.trash(_phosphorIconStyle);
+  static IconData lixeira = PhosphorIcons.trash(_phosphorIconStyle);
 }
