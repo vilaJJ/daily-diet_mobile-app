@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 /// Classe [Widget] raiz do aplicativo.
 class AppWidget extends StatelessWidget {
-/// Classe [Widget] raiz do aplicativo.
+  /// Classe [Widget] raiz do aplicativo.
   const AppWidget({super.key});
 
   @override
