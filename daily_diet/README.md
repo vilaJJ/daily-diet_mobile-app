@@ -1,5 +1,5 @@
-# dieta-diaria_mobile-app
-Repositório do aplicativo 'Dieta Diária', projeto proveniente de um desafio, desenvolvido em equipe.
+# daily-diet_mobile-app
+Repositório do aplicativo 'Daily Diet', projeto proveniente de um desafio, desenvolvido em equipe.
 
 Inicialmente, a ideia do projeto original é que a aplicação _front-end_ mobile fosse desenvolvida em **React Native**. No caso de nossa equipe, será executado e desenvolvido no **Flutter**.
 
